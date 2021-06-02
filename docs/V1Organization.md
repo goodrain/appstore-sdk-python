@@ -1,14 +1,12 @@
-# V1MarketInfoResponse
+# V1Organization
 
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**access_actions** | **list[str]** | 访问权限列表 | 
-**create_time** | **datetime** | 创建时间 | 
-**description** | **str** | 说明 | 
+**desc** | **str** | 描述 | 
+**eid** | **str** | 企业 ID | 
 **name** | **str** | 名称 | 
-**status** | **int** | 状态 | 
-**version** | **str** | 当前SAAS版本 | [optional] 
+**org_id** | **str** | 组织机构 ID | 
 
 [[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
 
